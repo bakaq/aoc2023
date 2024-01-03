@@ -1,3 +1,5 @@
+% SPDX-License-Identifier: Unlicense
+
 :- use_module(library(dcgs)).
 :- use_module(library(reif)).
 :- use_module(library(dif)).

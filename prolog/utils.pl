@@ -1,3 +1,5 @@
+% SPDX-License-Identifier: Unlicense
+%
 :- module(utils, [
     number_canonchars/2,
     eos//0,
